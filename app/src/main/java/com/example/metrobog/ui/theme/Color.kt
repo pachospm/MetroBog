@@ -2,10 +2,11 @@ package com.example.metrobog.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
-
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+// TransMilenio palette
+val TransRed = Color(0xFFE31E24)
+val TransRedDark = Color(0xFFB01519)
+val TransRedLight = Color(0xFFFF6B6B)
+val TransGray = Color(0xFF4A4A4A)
+val TransGrayLight = Color(0xFFE0E0E0)
+val TransWhite = Color(0xFFFAFAFA)
+val TransYellow = Color(0xFFFFC107)
